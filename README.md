@@ -1,6 +1,8 @@
 # 🛡️ SOC SOAR Automation Lab
 
-## Overview
+![image](https://github.com/omkarbabar1234/soc-soar-automation-lab/blob/c98db643f8d7af6c0653d4cffe5021853e41b398/attack-scenarios/Diagram.png)
+
+## 📌Overview
 This repository documents a hands-on SOC automation lab focused on detection, investigation, and human-in-the-loop response.
 
 The project is intentionally built step-by-step to reflect real SOC maturity, starting from alert ingestion and case management, and evolving toward analyst-approved endpoint response.
@@ -13,3 +15,5 @@ soc-soar-automation-lab/
 │   ├── credential-access-mimikatz/
 │   └── README.md
 └── README.md
+
+
